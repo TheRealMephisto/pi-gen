@@ -1,5 +1,5 @@
 ssh less fbset sudo psmisc strace ed ncdu crda
-console-setup keyboard-configuration debconf-utils parted unzip
+console-setup keyboard-configuration debconf-utils unzip
 build-essential manpages-dev python bash-completion gdb pkg-config
 python-rpi.gpio v4l-utils
 avahi-daemon
@@ -11,7 +11,7 @@ libraspberrypi-dev libraspberrypi-doc libfreetype6-dev
 dosfstools
 dphys-swapfile
 raspberrypi-sys-mods
-pi-bluetooth
+-bluetooth
 apt-listchanges
 usb-modeswitch
 apt-transport-https
